@@ -42,7 +42,8 @@ Students will:
 | File / Folder | Description |
 |---|---|
 | `JobInterviewGuide_Workshop.ipynb` | Main workshop template notebook |
-| `JobInterviewGuide_Workshop_MinhThuan.ipynb` | Completed personalized notebook (MinhThuan) |
+| `JobInterviewGuide_Workshop_MinhThuan.ipynb` | Completed personalized notebook (Minh Thuan) |
+| `JobInterviewGuide_Workshop_PreejaAnilal(8791796).ipynb` | Completed personalized notebook (Preeja Anilal) |
 | `StudyGuide.txt` | Interview topic guide uploaded to the LLM session |
 | `study_materials/` | Reference workshop notebooks covering ML topics |
 | `images/` | Images embedded in the notebooks |
@@ -51,6 +52,7 @@ Students will:
 | Notebook | Topic |
 |---|---|
 | `DataStreamVisualization_Workshop.ipynb` | Data stream visualization |
+| `DataStreamVisualization_Workshop_sample.ipynb` | Sample data stream visualization workflow |
 | `linear_regression.ipynb` | Linear regression |
 | `LogisticRegressionClassifier_Workshop.ipynb` | Logistic regression classifier |
 | `KNN_Workshop_Solution.ipynb` | K-Nearest Neighbors |
