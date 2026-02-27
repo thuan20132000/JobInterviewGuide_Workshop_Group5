@@ -44,6 +44,7 @@ Students will:
 | `JobInterviewGuide_Workshop.ipynb` | Main workshop template notebook |
 | `JobInterviewGuide_Workshop_MinhThuan.ipynb` | Completed personalized notebook (MinhThuan) |
 | `JobInterviewGuide_Workshop_PreejaAnilal(8791796).ipynb` | Completed personalized notebook (Preeja Anilal) |
+| `JobInterviewGuide_Workshop_Anthony.ipynb` | Completed personalized notebook (Anthony Izevbokun) |
 | `StudyGuide.txt` | Interview topic guide uploaded to the LLM session |
 | `study_materials/` | Reference workshop notebooks covering ML topics |
 | `images/` | Images embedded in the notebooks |
