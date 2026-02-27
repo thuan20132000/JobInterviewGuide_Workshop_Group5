@@ -37,13 +37,39 @@ Students will:
 
 ---
 
+## 📁 Repository Contents
+
+| File / Folder | Description |
+|---|---|
+| `JobInterviewGuide_Workshop.ipynb` | Main workshop template notebook |
+| `JobInterviewGuide_Workshop_MinhThuan.ipynb` | Completed personalized notebook (MinhThuan) |
+| `StudyGuide.txt` | Interview topic guide uploaded to the LLM session |
+| `study_materials/` | Reference workshop notebooks covering ML topics |
+| `images/` | Images embedded in the notebooks |
+
+### Study Materials
+| Notebook | Topic |
+|---|---|
+| `DataStreamVisualization_Workshop.ipynb` | Data stream visualization |
+| `linear_regression.ipynb` | Linear regression |
+| `LogisticRegressionClassifier_Workshop.ipynb` | Logistic regression classifier |
+| `KNN_Workshop_Solution.ipynb` | K-Nearest Neighbors |
+| `PerformanceMetricsClassification.ipynb` | Classification performance metrics |
+| `LogLoss_Example.ipynb` | Log loss / cross-entropy |
+| `Insights_Group2_LogisticRegression.ipynb` | Logistic regression insights |
+
+---
+
 ## 🚀 Deliverable
-Students must submit only the **JobInterviewGuide_Workshop.ipynb** file to GitHub.  
-This notebook should include:
-- Recorded quiz results  
-- Reflection answers  
-- Targeted ML exercises  
-- Example code scaffolding  
+Students must submit the following to GitHub:
+- **`JobInterviewGuide_Workshop.ipynb`** — completed with quiz results, reflection, and exercises
+- **`JobInterviewLLMSession.ipynb`** — full LLM session transcript
+
+The notebook should include:
+- Recorded quiz results
+- Reflection answers
+- Targeted ML exercises
+- Example code scaffolding
 
 ---
 
